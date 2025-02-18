@@ -9,7 +9,7 @@
 
 # OFFLINE WP ONLY LESTEST VERSION USE AGAIN RM -RF AND GIT
 
-# Faltu ka Mazduri mat
+# Faltu ka Mazduri mat kr
 
 Copyright Notice  
 
