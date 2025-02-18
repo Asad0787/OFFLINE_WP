@@ -9,7 +9,7 @@
 
 # OFFLINE WP ONLY LESTEST VERSION USE AGAIN RM -RF AND GIT
 
-# Faltu ka Mazduri mat kr nhi hoga bypas ka protector bhi chudega sath me terminal bhi WARNING ⚠️
+# Faltu ka Mazduri mat
 
 Copyright Notice  
 
